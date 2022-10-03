@@ -1,0 +1,15 @@
+.App {
+  width: 100%;
+}
+
+textarea {
+  width: 300px;
+  height: 120px;
+}
+.file {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
