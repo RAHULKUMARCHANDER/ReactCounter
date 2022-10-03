@@ -50,7 +50,7 @@ const App = () => {
       <div className="file">
         <label>Font size picker</label>
         <input type="range" min="16" max="32" onChange={sizechange}></input>
-        <label>Word limit input</label>
+        <label>Char limit input</label>
         <input type="number" onChange={maxfun} id="char-limit-input" />
         <br />
         <textarea
