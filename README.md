@@ -1,2 +1,2 @@
-# ReactCounter
+# ReactWordCounter
 Created with CodeSandbox
